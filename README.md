@@ -12,6 +12,7 @@ Telegram: https://t.me/cr8tivehub
 
 ‎The software is available on Windows, Mac, Linux, and as a source code.
 
-‎   <iframe width="560" height="315" src="https://www.youtube.com/embed/vFgXbMbpMNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+‎   [![Watch the video](https://img.youtube.com/vi/vFgXbMbpMNc/hqdefault.jpg)](https://www.youtube.com/watch?v=vFgXbMbpMNc)
+
 ‎   
 ‎
